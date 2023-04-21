@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 21 11:29:19 MSK 2023","Fri Apr 21 11:29:20 MSK 2023","801","","test_jne","Test_Install","","","Найдена иконка установочника",""
+"passed","Fri Apr 21 11:29:23 MSK 2023","Fri Apr 21 11:29:24 MSK 2023","889","","test_jne","Test_Install","","","Следующая кнопка далее",""
+"passed","Fri Apr 21 11:29:20 MSK 2023","Fri Apr 21 11:29:22 MSK 2023","1945","","test_jne","Test_Install","","","Найдено окно установочника",""
+"passed","Fri Apr 21 11:29:24 MSK 2023","Fri Apr 21 11:29:25 MSK 2023","1012","","test_jne","Test_Install","","","Следующая кнопка далее",""
+"passed","Fri Apr 21 11:29:25 MSK 2023","Fri Apr 21 11:29:27 MSK 2023","2253","","","","","","Кнопка финиш в установочнике",""
+"passed","Fri Apr 21 11:29:22 MSK 2023","Fri Apr 21 11:29:23 MSK 2023","959","","test_jne","Test_Install","","","Нажата кнопка далее",""
